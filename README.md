@@ -1,4 +1,4 @@
-Softv-rov--in-inierstvo-1
+Softverove inzinierstvo 1
 =========================
 
 Projekt na predmet softvérové inžinierstvo
