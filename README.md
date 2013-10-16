@@ -3,6 +3,10 @@ Softverove-inzinierstvo1
 
 Projekt UML na predmet Softvérové inžinierstvo 1
 
+Projekt sa nachadza a stiahnete si ho:
+
+`git clone https://github.com/SvetlanaM/Softverove-inzinierstvo-1.git`
+
 
 Zadanie projektu
 ========================
